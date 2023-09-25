@@ -1,0 +1,8 @@
+---
+electron25-freebsd-builds
+-- Personally compiled electron25 builds for freebsd
+---
+-- Due to resource constraints there is currently not offical FreeBSD electron25 package
+---- nor any package that depends on it
+-- with this repo I hope to provide precompiled binaries packages for public usage
+---
